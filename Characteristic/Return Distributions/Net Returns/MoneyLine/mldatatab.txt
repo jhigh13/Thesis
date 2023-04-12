@@ -1,0 +1,11 @@
+	(1)	(2)	(3)
+	MLB	NFL	NHL
+VARIABLES	mlclosereturn	mlclosereturn	mlclosereturn
+			
+mlOCreturn	-1.117***	-0.883***	-1.353***
+	(-27.35)	(-15.75)	(-22.75)
+			
+Observations	67,479	8,080	36,886
+R-squared	0.011	0.030	0.014
+t-statistics in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

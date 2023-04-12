@@ -1,0 +1,11 @@
+	(1)	(2)	(3)	(4)
+	MLB	NFL	NHL	NBA
+VARIABLES	overclosereturn	overclosereturn	overclosereturn	overclosereturn
+				
+overOCreturn	-0.701***	-0.651***	-1.086***	-0.564***
+	(-35.88)	(-15.41)	(-26.45)	(-33.25)
+				
+Observations	33,746	4,041	18,444	21,357
+R-squared	0.037	0.056	0.037	0.049
+t-statistics in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

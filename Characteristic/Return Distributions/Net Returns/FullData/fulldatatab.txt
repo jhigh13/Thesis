@@ -1,0 +1,15 @@
+	(1)	(2)	(3)
+	Spread	Moneyline	OverUnder
+VARIABLES	spreadclosereturn	mlclosereturn	overclosereturn
+			
+spreadOCreturn	-0.579***		
+	(-39.96)		
+mlOCreturn		-1.192***	
+		(-35.42)	
+overOCreturn			-0.662***
+			(-58.44)
+			
+Observations	29,439	104,365	81,629
+R-squared	0.051	0.012	0.040
+t-statistics in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

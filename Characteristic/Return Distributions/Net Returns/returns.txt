@@ -1,0 +1,14 @@
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	N	mean	sd	min	max
+					
+gameid	12,123	1.340e+06	1.986e+06	66	4.721e+06
+spreadopenreturn	4,041	-0.0990	0.942	-1	1.100
+spreadclosereturn	4,041	-0.0716	0.962	-1	1.250
+spreadOCreturn	4,041	-0.0274	0.435	-2.150	2.050
+overopenreturn	4,041	-0.0726	0.946	-1	1.060
+overclosereturn	4,041	-0.0550	0.966	-1	1.330
+overOCreturn	4,041	-0.0176	0.350	-2.060	1.909
+_stack	8,082	1.500	0.500	1	2
+mlclosereturn	8,080	-0.0338	1.153	-1	9.570
+mlOCreturn	8,080	-0.00690	0.225	-9.429	2.810
+					
