@@ -1,6 +1,6 @@
 Folder containing all raw data files, Stata datasets and Do-files, and Jupyter Notebook Scripts. 
 Data in the main folder is the raw and cleaned datasets used for further analysis. 
-Characteristic contains all scripts and return distributions needed for executing the Trading Strategies
+Trading Scripts contains all scripts and return distributions needed for executing the Trading Strategies
 Documents contains the latest updated Thesis files.
 Extra Data contains previously sourced data not included in the final version.
 Summary Statistics contains the basic scripts and datasets used for the preliminary sports contract data evaluation. 
